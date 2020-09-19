@@ -1,0 +1,38 @@
+*{
+    padding:0px;
+    margin: 0px;
+    font-family: fantasy;
+    -webkit-text-stroke: 0.8px black;
+}
+
+.bi {
+    background-color: rgb(164, 119, 223);
+    width: fit-content;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px 20px 20px 20px;
+}
+
+.es{
+    padding: 10px;
+}
+button {
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    padding: 20px;
+    background-color: rgb(166, 226, 241);
+}
+.l {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.l2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+.s{
+    background-color: rgb(147, 84, 184);
+    color: rgb(255, 253, 253);
+}
